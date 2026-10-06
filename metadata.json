@@ -1,0 +1,7 @@
+{
+  "name": "SteamSquad & Broadcast Flight Engine",
+  "description": "Squad multiplayer matrix, party lobbies, and live broadcast tap-to-fly arcade game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
